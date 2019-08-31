@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg    # 首页头部底图
 email: guoke24s@gmail.com
 description: "Software Engineer" # 自我简介，目前没显示
 keyword: "Guok Blog, 博客, 个人网站, 互联网, Web, Android" # 关键词，目前没显示
-url: "https://guoke24.github.io" 
-#url: "https://guoke24.top"              # your host, for absolute URL
+#url: "https://guoke24.github.io" 
+url: "http://guoke24.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
