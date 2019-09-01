@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg    # 首页头部底图
 email: guoke24s@gmail.com
 description: "Software Engineer" # 自我简介，目前没显示
 keyword: "Guok Blog, 博客, 个人网站, 互联网, Web, Android" # 关键词，目前没显示
-url: "https://guoke24.github.io" 
-#url: "https://guoke24.top"              # your host, for absolute URL
+#url: "https://guoke24.github.io" 
+url: "https://guoke24.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -58,6 +58,15 @@ kramdown:
       start_line: 1
 
 
+# Gitalk settings
+gitalk:
+    enable: true    #是否开启Gitalk评论
+    clientID: 0e352d80bf1e1c254a63
+    Secret: 775cfc31d9eaffbb45f027dd2249a1af1f418102
+    repo: guoke24.github.io
+    owner: guoke24
+    admin: guoke24
+    distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Disqus settings，先到 Disqus 申请账号，并配置 Add Dusqus To Site，得到一个 webSite 的 shortname，填写到此处
 disqus_username: guoke24
