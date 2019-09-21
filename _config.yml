@@ -1,14 +1,14 @@
 # Site settings
-title: Guok Blog    # 首页标题
-SEOTitle: 锅ke的博客 | Guok Blog  # 浏览器标签栏的文字
-header-img: img/home-bg.jpg    # 首页头部底图
+title: 一兰的窝    # 首页标题
+SEOTitle: 一兰  # 浏览器标签栏的文字
+header-img: img/old-house.jpg    # 首页头部底图
 email: guoke24s@gmail.com
 description: "Software Engineer" # 自我简介，目前没显示
 keyword: "Guok Blog, 博客, 个人网站, 互联网, Web, Android" # 关键词，目前没显示
-#url: "https://guoke24.github.io" 
-url: "https://guoke24.top"              # your host, for absolute URL
+url: "https://moyilan13.github.io" 
+#url: "https://guoke24.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/guoke24/guoke24.github.io.git"
+#github_repo: "https://github.com/guoke24/guoke24.github.io.git"
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -17,7 +17,7 @@ future: true
 RSS: false
 weibo_username:     guoke24pro
 #zhihu_username:     huxpro
-github_username:    guoke24
+github_username:    moyilan13
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -89,8 +89,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # 侧边栏开关
-sidebar-about-description: "Step by step<br>不积跬步" # 侧边栏自我描述
-sidebar-avatar: /img/avatar-guok-ny.jpg      # 侧边栏大头贴
+sidebar-about-description: "让我好好想想" # 侧边栏自我描述
+sidebar-avatar: /img/old-house.jpg      # 侧边栏大头贴
 
 
 
